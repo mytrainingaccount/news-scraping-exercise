@@ -1,0 +1,2 @@
+BLUF
+It is possible to use python and other supporting libraries to scrape from the web content from a US news website about the mention of the word China, and then use textblob to preform sentiment analysis and give a rating to those sentances on the scraped website that mentioned the key word of China. 
